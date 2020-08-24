@@ -1,0 +1,8 @@
+This is an RDO style Collector System.
+
+Locations are from 
+https://jeanropke.github.io/RDR2CollectorsMap/
+
+Only thing I havent thought to do with this set is the Birds Nest. once I have an idea of how to tackel putting them in a tree to shoot down
+then I might add this
+
